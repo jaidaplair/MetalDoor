@@ -3,7 +3,32 @@ guid: 99e821ed91a0d3644b6da61c36e04138
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8D28.012"
+    second: {fileID: 2100000, guid: ec3ab07824ea95b489846c23bf698110, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: door1_7_BaseColor
+    second: {fileID: 2800000, guid: a6de5a40d0fd1dd408c684d6e43dde3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: door1_7_Metallic
+    second: {fileID: 2800000, guid: 8fb1e81b7274aec49bd4bf4d61e6b9cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: door1_7_Normal
+    second: {fileID: 2800000, guid: bf6480dfa597db142a5281952b5838e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: door1_7_Roughness
+    second: {fileID: 2800000, guid: b33bf46a4365a244caf7a5ecbf9d2fca, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
